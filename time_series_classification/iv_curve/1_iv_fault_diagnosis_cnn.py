@@ -2,7 +2,7 @@
 # -- coding: utf-8 --
 # @Time : 2022/9/1 19:16
 # @Author : liumin
-# @File : 1_iv_fault_diagnosis_cnn.py
+# @File : 20220922_iv_fault_diagnosis_cnn.py
 import copy
 import os
 import pickle

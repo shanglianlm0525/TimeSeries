@@ -11,8 +11,8 @@ import matplotlib.pyplot as plt
 from neuralprophet import NeuralProphet, set_log_level
 set_log_level("ERROR")
 
-df_train = pd.read_csv("shenghuoqu0815.csv")
-df_test = pd.read_csv("shenghuoqu0821.csv")
+df_train = pd.read_csv("data/shenghuoqu0815.csv")
+df_test = pd.read_csv("data/shenghuoqu0821.csv")
 print(df_train.info())
 print(df_test.info())
 
